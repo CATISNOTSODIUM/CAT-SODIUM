@@ -10,8 +10,12 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "list-files": "^1.1.4",
+    "list-react-files": "^0.2.0",
     "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "react-dom": "^18.3.1",
+    "react-markdown": "^9.0.1",
+    "vite-raw-plugin": "^1.0.2"
   },
   "devDependencies": {
     "@types/react": "^18.3.3",
@@ -23,6 +27,8 @@
     "eslint-plugin-react-hooks": "^4.6.2",
     "eslint-plugin-react-refresh": "^0.4.7",
     "postcss": "^8.4.38",
+    "raw-loader": "^4.0.2",
+    "react-error-overlay": "^6.0.9",
     "tailwindcss": "^3.4.4",
     "vite": "^5.3.1"
   }
