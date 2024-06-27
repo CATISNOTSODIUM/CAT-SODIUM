@@ -15,7 +15,7 @@ function displayMarkdown(markdown){
     let metadata = extractMetadataFromMarkdown(markdown);
     return (
         <>
-        <a href="">
+        <a href={metadata.link}>
         <h3>{metadata.title}</h3>
         <h5 className="flex-row">{
             metadata.tags.split(",").map((tag)=>
