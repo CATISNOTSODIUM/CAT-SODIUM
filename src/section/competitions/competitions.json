@@ -2,9 +2,16 @@
 {
     "name":"52nd International Physics Olympiad",
     "position":"Silver medal",
-    "description":"The International Physics Olympiad (IPhO) is one of the most prestigious high school international physics competitions. Every year, the Institute for the Promotion of Teaching Science and Technology (IPST) selects five outstanding students from thousands to participate in this competition. In that year, our Thai team received five silver medals, and I was among them, taking the 3rd place among the Thai representatives.",
+    "description":"",
     "image":"",
     "link":"https://ipho-unofficial.org/timeline/2022/individual"
+},
+{
+    "name": "22nd Asian Physics Olympiad",
+    "position": "Honourable Mention",
+    "description": "",
+    "image": "",
+    "link": "https://apho2022.in/wp-content/uploads/2022/05/Results.pdf"
 },
 {
     "name": "IMMC 2024: Picking the Perfect Pet",
@@ -14,9 +21,16 @@
     "link": "https://immchallenge.org/Contests/2024/Results.html"
 },
 {
+    "name": "HIMCM 2023",
+    "position": "Finalist",
+    "description": "",
+    "image": "",
+    "link": "https://contest.comap.com/highschool/contests/himcm/2023_HiMCM_Results.pdf"
+},
+{
     "name": "IMMC 2022: Aboard! Boarding and Disembarking a Plane",
     "position": "Outstanding award",
-    "description": "IMMC is a mathematics team-based modelling competition which each team of four members attempts to solve the real-world problem of boarding and disembarking a plane. Our team utilized a cellular automation technique to solve the problem and received the “Outstanding team” award.",
+    "description": "",
     "image": "",
     "link": "https://www.immchallenge.org/Contests/2022/Results.html"
 }

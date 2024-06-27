@@ -27,7 +27,7 @@ function App() {
             <h2 className="text-xl">═══ Working Experiences ═══</h2>
             <Projects />
             <hr />
-            <h2 className="text-xl">═══ Blogs/Articles ═══</h2>
+            <h2 className="text-xl">═══ Personal blogs/projects ═══</h2>
             <Blogs />
             <hr />
             <h2 className="text-xl">═══ Academics ═══</h2>

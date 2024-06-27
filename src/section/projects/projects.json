@@ -2,7 +2,7 @@
     {
         "name": "Canarie",
         "position": "Intern (Backend)",
-        "description": "",
+        "description": "Setting web application framework by using Rust-axum.",
         "image": "",
         "date":"May-June 2024",
         "link": "here"
@@ -10,9 +10,9 @@
     {
         "name": "LAMMPS Research Team",
         "position": "Kamnoetvidya Science Academy",
-        "description": "",
+        "description": "Investigating the clustering patterns of magnetic dipoles in fluidic system.",
         "image": "",
         "date": "2022-2023",
-        "link": ""
+        "link": "https://iopscience.iop.org/article/10.1088/1742-6596/2653/1/012041/meta"
     }
 ]
