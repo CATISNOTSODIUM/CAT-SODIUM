@@ -1,10 +1,8 @@
 ---
-title: "Introduction to Blogosophy"
+title: Lorem ipsum
 date: 2024-4-26
 draft: false
-tags: ["Philosophy","Blog","Introduction"]
-thumbnail: "/img/introduction.jpg"
-slug: "intro"
+tags: Lorem ipsum,nunc elit
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras et vehicula lectus. Vestibulum a pulvinar nulla. Vivamus feugiat fringilla ligula quis dictum. Quisque fringilla, risus id euismod egestas, nunc elit interdum orci, et sollicitudin sem nulla nec ligula. Duis viverra quam ut efficitur ultrices. Aenean enim mi, semper in mi et, facilisis convallis dui. Suspendisse sed lacus arcu. Nullam bibendum felis et enim rhoncus volutpat. Vivamus massa ligula, faucibus vitae convallis non, eleifend in ex. Ut dictum at eros vel consectetur. Praesent eget dui a odio blandit consectetur. Sed viverra turpis eget egestas ornare. Mauris eget eleifend magna, facilisis elementum enim. Nullam a urna at ex posuere gravida quis accumsan tellus. Maecenas consectetur sapien lacus, non tincidunt arcu luctus eget. Pellentesque scelerisque dignissim dolor, non eleifend odio tempus id.

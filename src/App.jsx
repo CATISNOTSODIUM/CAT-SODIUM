@@ -20,8 +20,7 @@ function App() {
             <h1 className="text-sm">@ C A T I S N O T S O D I U M</h1>
             <div className='text-xs'>✩₊˚.⋆☾⋆⁺₊✧✩₊˚.⋆☾⋆⁺₊✧✩₊˚.⋆☾⋆⁺₊✧✩₊˚.⋆☾⋆⁺₊✧✩₊˚.⋆☾⋆⁺₊✧</div>
             <h2 className="text-xl">═══ About me ═══ </h2>
-            <div className="text-sm">Hi! My name is Beam. I am a high school international Physics Olympiad (IPhO) medalist who is interested in physics research and computer science. I have experienced in doing molecular dynamics research, computational physics, mathematical modelling, and teaching physics.
-              I am looking forward to pursuing a career in physics and computer science. I also had a plan to do business in the future!
+            <div className="text-sm">Hi! I'm an undergraduate computer science student at National University of Singapore (NUS). I've worked on several projects involving in molecular dynamics simulation. My favourite programming language is Rust despite having used it for only two months. As you can tell from this website, I'm a big fan of cats. Still, I've no idea why I named my account @CATISNOTSODIUM.
             </div>
             <hr />
             <h2 className="text-xl">═══ Working Experiences ═══</h2>
