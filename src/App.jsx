@@ -6,6 +6,7 @@ import Projects from './section/projects'
 import Competitions from './section/competitions'
 import Education from './section/education'
 import Blogs from './section/blogs'
+import Logo from './section/logo'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -21,13 +22,12 @@ function App() {
             <div className='text-xs'>✩₊˚.⋆☾⋆⁺₊✧✩₊˚.⋆☾⋆⁺₊✧✩₊˚.⋆☾⋆⁺₊✧✩₊˚.⋆☾⋆⁺₊✧✩₊˚.⋆☾⋆⁺₊✧</div>
             <h2 className="text-xl">═══ About me ═══ </h2>
             <div className="text-sm">Hi! I'm an undergraduate computer science student at National University of Singapore (NUS). I've worked on several projects involving in molecular dynamics simulation. My favourite programming language is Rust despite having used it for only two months. As you can tell from this website, I'm a big fan of cats. Still, I've no idea why I named my account @CATISNOTSODIUM.
+            <div><Logo/></div>
             </div>
             <hr />
             <h2 className="text-xl">═══ Working Experiences ═══</h2>
             <Projects />
-            <hr />
-            <h2 className="text-xl">═══ Personal blogs/projects ═══</h2>
-            <Blogs />
+           
             <hr />
             <h2 className="text-xl">═══ Academics ═══</h2>
             <Education /><hr className='text-gray-100' />

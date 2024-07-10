@@ -5,34 +5,35 @@
   font-family: "Fira Mono", monospace;
   line-height: 1.5;
   font-weight: 440;
-  background-image: radial-gradient(circle, #fefdf7, #e7ffe1, #e3f0e1, #e7f7e3, #eaffe6);
-  color: #000000;
+  background-color: #24283b;
+  color: #c0caf5;
 }
 h1 {
-  color: #627254;
+  color: #ffc777;
   font-weight: 500;
 }
 
 
 h2 {
-  color: #808617;
+  color: #ffc777;
   font-weight: 500;
 }
 
 h3 {
-  color: #536145;
+  color: #f7ead8;
   font-weight: 450;
 }
 
 
 h4 {
-  color: rgb(67, 76, 59);
-  font-weight: 430;
+  color:#f1e9de;
+  font-weight: 400;
   font-size: 15px;
 }
 
 h5 {
-  color: rgb(84, 110, 88);
+  color:#ffc777;
   font-weight: 400;
   font-size: 12px;
 }
+
